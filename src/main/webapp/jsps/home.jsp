@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Mithun technologies-github webhook demo.... </h1>
-<h1 align="center"> Mithun Software Solutions- we have a develops master program demo on june 3rd at 7pm IST for new batch,this is a weekday /h1>
+<h1 align="center"> Mithun Software Solutions- we have a develops master program demo on june 3rd at 7pm IST for new batch,this is a weekday </h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
